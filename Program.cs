@@ -26,6 +26,7 @@ namespace SampleProject
             if (flag == 0)
                 Console.Write("Number is Prime.");
             Console.ReadLine();
+            Console.WriteLine("Hello from Madhumithra");
         }
     }
 }
