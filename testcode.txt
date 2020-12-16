@@ -1,0 +1,2 @@
+sample input:3
+sample output: prime number
